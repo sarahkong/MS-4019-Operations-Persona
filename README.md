@@ -20,4 +20,29 @@ Before starting this exercise, ensure you have access to:
 - Analyst agent
 - Create Agent in Microsoft 365 Copilot
   
-Sample organizational content can include:
+## Exercise 1 – Analyse Operational Context with Researcher
+Use the Researcher agent to identify operational trends, risks, and priorities impacting day-to-day business operations.
+
+### Steps
+1. Open Microsoft 365 Copilot Chat.
+2. Expand the Agents menu.
+3. Select Researcher.
+4. Enter the following prompt.
+
+### Prompt
+Summarize the key operational trends impacting our organization this quarter. Identify recurring operational challenges, resource constraints, process improvement opportunities, and areas that may require leadership attention.
+
+### Expected Outcome
+Researcher generates a summary of:
+
+- Key operational trends affecting the business
+- Recurring issues, risks, or bottlenecks identified across available business data
+- Resource, staffing, or workload considerations
+- Process improvement opportunities
+- Operational priorities requiring management or leadership attention
+- Insights that can support operational planning and decision-making
+
+This output provides operations leaders with a consolidated view of current operational health and areas requiring action.
+
+
+
