@@ -1,8 +1,8 @@
 # MS-4019-Operations-Persona
 
-##Applied Exercise – Operations Leadership Workflows with Microsoft 365 Copilot Agents
+## Applied Exercise – Operations Leadership Workflows with Microsoft 365 Copilot Agents
 
-##Learning Objectives
+## Learning Objectives
 
 In this exercise, you will use Microsoft 365 Copilot prebuilt agents and a custom agent to support operations leadership workflows such as operational planning, resource management, process improvement, issue resolution, and business reporting.
 By completing these activities, you will learn how to:
@@ -13,7 +13,7 @@ By completing these activities, you will learn how to:
 5. Apply retrieval-based AI experiences to operations management scenarios.
 6. Use Copilot agents to support decision-making, workforce planning, process optimisation, and business continuity activities.
 
-##Prerequisites
+## Prerequisites
 Before starting this exercise, ensure you have access to:
 - Microsoft 365 Copilot
 - Researcher agent
