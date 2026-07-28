@@ -2,7 +2,7 @@
 
 ## Applied Exercise – Operations Leadership Workflows with Microsoft 365 Copilot Agents
 
-## Learning Objectives
+## Learning Objectives.
 
 In this exercise, you will use Microsoft 365 Copilot prebuilt agents and a custom agent to support operations leadership workflows such as operational planning, resource management, process improvement, issue resolution, and business reporting.
 By completing these activities, you will learn how to:
